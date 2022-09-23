@@ -1,0 +1,12 @@
+/* padding in bootsrap is not working, was using p-X format and nothing was happening */
+h1{
+    padding: 20px;
+}
+
+.card-padding{
+    padding: 10px
+}
+
+img{
+    width: 30%;
+}
